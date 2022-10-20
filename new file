@@ -7,4 +7,4 @@ after that use command to add the code #git add .
 thn you need to commit , for commit you use #git commit -m "any messege"
 thn finally pushed that code on your git repo. 
 
-note :- similar procees on git bash and visual studio 
+note :- similar  procees on git bash and visual studio 
